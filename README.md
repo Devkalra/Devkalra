@@ -7,7 +7,7 @@
 - 🔭 Have a look over my portfolio: https://devetc50.wixsite.com/my-potfolio
 
 
-My Github Readme Streak Stats
+My Github Streak Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Devkalra)](https://git.io/streak-stats)
 
