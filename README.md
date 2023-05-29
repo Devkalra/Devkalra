@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning AI x Flutter
 - 👯 I’m looking to collaborate on Flutter Projects
 - 💬 Ask me about Startups
+- 🔭 Have a look over my portfolio: https://devetc50.wixsite.com/my-potfolio
+
 
 My Github Readme Streak Stats
 
