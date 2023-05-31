@@ -3,7 +3,7 @@
 ### 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 
 - 🌱 I’m currently learning AI x Flutter
 - 👯 I’m looking to collaborate on Flutter Projects
-- 💬 Ask me about Startups
+- 💬 Ask me about Startups & new tech
 - 🔭 Have a look over my portfolio: https://devetc50.wixsite.com/my-potfolio
 
 
