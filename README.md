@@ -6,11 +6,11 @@
 - 💬 Ask me about Startups & new tech
 - 🔭 Have a look over my portfolio: https://devetc50.wixsite.com/my-potfolio
 
-
+<!--
 My Github Streak Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Devkalra)](https://git.io/streak-stats)
-
+-->
 
 ### 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎.
